@@ -34,4 +34,3 @@ Author
 Shubhi Gupta
 B.Tech Student
 
-If you want, I can also customize this README to match your exact Java filename, college submission format, or GitHub portfolio style.
